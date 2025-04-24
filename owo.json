@@ -152,7 +152,7 @@
       {"icon": "<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/黑线.png\">", "text": "heo-黑线"},
       {"icon": "<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/鼓掌.png\">", "text": "heo-鼓掌"}
     ]
-  }
+  },
   "颜文字": {
     "type": "emoticon",
     "container": [
